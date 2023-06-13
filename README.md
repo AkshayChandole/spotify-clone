@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Spotify clone app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React Js Library, Spotify Web API and useContext hook.
 
 ## Available Scripts
 
